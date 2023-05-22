@@ -73,10 +73,26 @@ img {
 
     h1{
         position: relative;
-        left: 450px;
+        left: 330px;
+    }
+    
+    .rectangle {
+        height: 80px;
+        width: 2px;
+        background-color: black;
+        position: relative;
+        left: 190px;
+        top: 285px;
     }
 
-
+    p {
+        position: relative;
+        left: 200px;
+        top: 100px;
+        width: 245px;
+        height: 50px;
+        font-size: 15px;
+    }
 
 
 @media(max-width:858px){
