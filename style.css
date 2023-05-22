@@ -71,6 +71,10 @@ img {
     color: black;
   }
 
+    h1{
+        position: relative;
+        left: 300px;
+    }
 
 
 
